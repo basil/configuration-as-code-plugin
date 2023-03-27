@@ -154,7 +154,7 @@
     <dependency>
       <groupId>org.jenkinsci.plugins</groupId>
       <artifactId>pipeline-model-extensions</artifactId>
-      <version>1.7.0</version>
+      <version>2.2125.vddb_a_44a_d605e</version>
       <scope>test</scope>
     </dependency>
 
